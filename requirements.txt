@@ -1,0 +1,4 @@
+Game is based on Civilization I.
+
+Differences:
+- only Earth mode
