@@ -1,4 +1,4 @@
-package civ;
+package evolutions;
 
 public class TestClass {
 }
