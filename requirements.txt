@@ -1,4 +1,10 @@
-Game is based on Civilization I.
+4x game: build, conquer, research, exploit
 
-Differences:
-- only Earth mode
+Features:
+- map: Earth
+- civilizations playable: Roman, Egyptian, Chinese, Aztec
+- independent cities, from which other civilizations may arise
+- fighting: grouping
+- end of game: interstellar ship
+
+evolutions
